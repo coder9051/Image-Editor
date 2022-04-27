@@ -5,3 +5,13 @@ However, before these digital images can be used, they must be processed—analy
 
 Due to its growing popularity as a scientific programming language and the free availability of numerous state-of-the-art image processing tools in its ecosystem, Python is a great choice for these types of image processing applications.
 
+**The operations implemented are:**
+
+* Histogram 
+* computationHistogram 
+* equalizationGamma 
+* correctionLog 
+* transformImage 
+* negativeBlurring
+* Sharpening
+* Basic edge detection
